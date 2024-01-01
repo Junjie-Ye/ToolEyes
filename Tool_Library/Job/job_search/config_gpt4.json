@@ -1,0 +1,211 @@
+[
+    {
+        "name": "basic_job_search",
+        "description": "Search for jobs posted on job sites across the web.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "query": {
+                    "type": "string",
+                    "desciption": "Free-form jobs search query."
+                },
+                "page": {
+                    "type": "string",
+                    "desciption": "Page to return (each page includes up to 10 results)."
+                },
+                "num_pages": {
+                    "type": "string",
+                    "desciption": "Number of pages to return, starting from page."
+                },
+                "date_posted": {
+                    "type": "string",
+                    "desciption": "Find jobs posted within the time you specify."
+                },
+                "remote_jobs_only": {
+                    "type": "string",
+                    "desciption": "Find remote jobs only (work from home)."
+                },
+                "employment_types": {
+                    "type": "string",
+                    "desciption": "Find jobs of particular employment types."
+                },
+                "job_requirements": {
+                    "type": "string",
+                    "desciption": "Find jobs with specific requirements."
+                },
+                "job_titles": {
+                    "type": "string",
+                    "desciption": "Find jobs with specific job titles."
+                },
+                "company_types": {
+                    "type": "string",
+                    "desciption": "Find jobs posted by companies of certain types."
+                },
+                "employer": {
+                    "type": "string",
+                    "desciption": "Find jobs posted by specific employers."
+                },
+                "radius": {
+                    "type": "string",
+                    "desciption": "Return jobs within a certain distance from location as specified as part of the query (in km)."
+                },
+                "api_key": {
+                    "type": "string",
+                    "desciption": "X-RapidAPI-Key, which is the api key for using Rapid API."
+                }
+            }
+        },
+        "required": [
+            "query"
+        ]
+    },
+    {
+        "name": "search_jobs_with_filters",
+        "description": "Search for jobs using the JSearch API.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "query": {
+                    "type": "string",
+                    "desciption": "The job search query. Query examples, web development in chicago, marketing manager in new york via linkedin, developer in germany 60306"
+                },
+                "page": {
+                    "type": "string",
+                    "desciption": "The page to return. Defaults to 1."
+                },
+                "num_pages": {
+                    "type": "string",
+                    "desciption": "The number of pages to return. Defaults to 1."
+                },
+                "date_posted": {
+                    "type": "string",
+                    "desciption": "Find jobs posted within the time you specify. Possible values: all, today, 3days, week, month. Default: all."
+                },
+                "remote_jobs_only": {
+                    "type": "string",
+                    "desciption": "Find remote jobs only. Defaults to False."
+                },
+                "employment_types": {
+                    "type": "string",
+                    "desciption": "Find jobs of particular employment types."
+                },
+                "job_requirements": {
+                    "type": "string",
+                    "desciption": "Find jobs with specific requirements."
+                },
+                "job_titles": {
+                    "type": "string",
+                    "desciption": "Find jobs with specific job titles."
+                },
+                "company_types": {
+                    "type": "string",
+                    "desciption": "Find jobs posted by companies of certain types."
+                },
+                "employer": {
+                    "type": "string",
+                    "desciption": "Find jobs posted by specific employers."
+                },
+                "radius": {
+                    "type": "string",
+                    "desciption": "Return jobs within a certain distance from location."
+                },
+                "categories": {
+                    "type": "string",
+                    "desciption": "Find jobs in specific categories/industries."
+                },
+                "api_key": {
+                    "type": "string",
+                    "desciption": "X-RapidAPI-Key, which is the api key for using Rapid API."
+                }
+            }
+        },
+        "required": [
+            "query"
+        ]
+    },
+    {
+        "name": "get_job_details",
+        "description": "Get all job details, including additional application options / links, employer reviews and estimated salaries for similar jobs.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "job_ids": {
+                    "type": "string",
+                    "desciption": "Job Id of the job for which to get details. You can get the job_ids from 'basic_job_search' function. Batching of up to 20 Job Ids is supported by separating multiple Job Ids by comma (,). Note that each Job Id in a batch request is counted as a request for quota calculation."
+                },
+                "extended_publisher_details": {
+                    "type": "string",
+                    "desciption": "Return additional publisher details such as website url and favicon."
+                },
+                "api_key": {
+                    "type": "string",
+                    "desciption": "X-RapidAPI-Key, which is the api key for using Rapid API."
+                }
+            }
+        },
+        "required": [
+            "job_ids"
+        ]
+    },
+    {
+        "name": "get_salary_estimation",
+        "description": "Get estimated salaries for a jobs around a location.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "job_title": {
+                    "type": "string",
+                    "desciption": "Job title for which to get salary estimation."
+                },
+                "location": {
+                    "type": "string",
+                    "desciption": "Location in which to get salary estimation."
+                },
+                "radius": {
+                    "type": "string",
+                    "desciption": "Search radius in km (measured from location)."
+                },
+                "api_key": {
+                    "type": "string",
+                    "desciption": "X-RapidAPI-Key, which is the api key for using Rapid API."
+                }
+            }
+        },
+        "required": [
+            "job_title",
+            "location"
+        ]
+    },
+    {
+        "name": "ask_to_user",
+        "description": "You can ask user for guidance when you think you need more information to handle the task, but you should use this tool as less as you can.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "question": {
+                    "type": "string",
+                    "desciption": "The question you want to ask to user."
+                }
+            }
+        },
+        "required": [
+            "question"
+        ]
+    },
+    {
+        "name": "finish",
+        "description": "Finish the task and give your answer.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "answer": {
+                    "type": "string",
+                    "desciption": "Your answer for the task."
+                }
+            }
+        },
+        "required": [
+            "answer"
+        ]
+    }
+]

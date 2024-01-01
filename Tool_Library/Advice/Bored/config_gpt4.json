@@ -1,0 +1,165 @@
+[
+    {
+        "name": "get_random_event",
+        "description": "Get a random event.",
+        "parameters": {
+            "type": "object",
+            "properties": {}
+        },
+        "required": []
+    },
+    {
+        "name": "get_activity_by_key",
+        "description": "Find an activity by its key.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "key": {
+                    "type": "string",
+                    "desciption": "A unique numeric id [1000000, 9999999]."
+                }
+            }
+        },
+        "required": [
+            "key"
+        ]
+    },
+    {
+        "name": "get_activity_by_type",
+        "description": "Find a random activity with a given type.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "type": {
+                    "type": "string",
+                    "desciption": "Type of the activity [\"education\", \"recreational\", \"social\", \"diy\", \"charity\", \"cooking\", \"relaxation\", \"music\", \"busywork\"]."
+                }
+            }
+        },
+        "required": [
+            "type"
+        ]
+    },
+    {
+        "name": "get_activity_by_participants",
+        "description": "Find a random activity with a given number of participants.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "participants": {
+                    "type": "string",
+                    "desciption": "The number of people that this activity could involve [0, n]."
+                }
+            }
+        },
+        "required": [
+            "participants"
+        ]
+    },
+    {
+        "name": "get_activity_by_price",
+        "description": "Find an activity with a specified price.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "price": {
+                    "type": "string",
+                    "desciption": "A factor describing the cost of the event with zero being free [0, 1]."
+                }
+            }
+        },
+        "required": [
+            "price"
+        ]
+    },
+    {
+        "name": "get_activity_by_price_range",
+        "description": "Find an event with a specified price in an inclusively constrained range.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "minprice": {
+                    "type": "string",
+                    "desciption": "A factor describing the minimum cost of the event with zero being free [0, 1]."
+                },
+                "maxprice": {
+                    "type": "string",
+                    "desciption": "A factor describing the maximum cost of the event with zero being free [0, 1]."
+                }
+            }
+        },
+        "required": [
+            "minprice",
+            "maxprice"
+        ]
+    },
+    {
+        "name": "get_activity_by_accessibility",
+        "description": "Find an event with a specified accessibility.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "accessibility": {
+                    "type": "string",
+                    "desciption": "A factor describing how possible an event is to do with zero being the most accessible [0.0, 1.0]."
+                }
+            }
+        },
+        "required": [
+            "accessibility"
+        ]
+    },
+    {
+        "name": "get_activity_by_accessibility_range",
+        "description": "Find an event with a specified accessibility in an inclusively constrained range.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "minaccessibility": {
+                    "type": "string",
+                    "desciption": "A factor describing the minimum accessibility of an event is to do with zero being the most accessible [0.0, 1.0]."
+                },
+                "maxaccessibility": {
+                    "type": "string",
+                    "desciption": "A factor describing the maximum accessibility of an event is to do with zero being the most accessible [0.0, 1.0]."
+                }
+            }
+        },
+        "required": [
+            "minaccessibility",
+            "maxaccessibility"
+        ]
+    },
+    {
+        "name": "ask_to_user",
+        "description": "You can ask user for guidance when you think you need more information to handle the task, but you should use this tool as less as you can.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "question": {
+                    "type": "string",
+                    "desciption": "The question you want to ask to user."
+                }
+            }
+        },
+        "required": [
+            "question"
+        ]
+    },
+    {
+        "name": "finish",
+        "description": "Finish the task and give your answer.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "answer": {
+                    "type": "string",
+                    "desciption": "Your answer for the task."
+                }
+            }
+        },
+        "required": [
+            "answer"
+        ]
+    }
+]

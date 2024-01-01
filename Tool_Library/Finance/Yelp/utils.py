@@ -1,0 +1,58 @@
+
+locale_list_doc = 'https://docs.developer.yelp.com/docs/resources-supported-locales'
+
+locale_list = [
+    'cs_CZ',
+    'da_DK',
+    'de_AT',
+    'de_CH',
+    'de_DE',
+    'en_AU',
+    'en_BE',
+    'en_CA',
+    'en_CH',
+    'en_GB',
+    'en_HK',
+    'en_IE',
+    'en_MY',
+    'en_NZ',
+    'en_PH',
+    'en_SG',
+    'en_US',
+    'es_AR',
+    'es_CL',
+    'es_ES',
+    'es_MX',
+    'fi_FI',
+    'fil_PH',
+    'fr_BE',
+    'fr_CA',
+    'fr_CH',
+    'fr_FR',
+    'it_CH',
+    'it_IT',
+    'ja_JP',
+    'ms_MY',
+    'nb_NO',
+    'nl_BE',
+    'nl_NL',
+    'pl_PL',
+    'pt_BR',
+    'pt_PT',
+    'sv_FI',
+    'sv_SE',
+    'tr_TR',
+    'zh_HK',
+    'zh_TW'
+]
+
+attributes_list = [
+    'hot_and_new',
+    'request_a_quote',
+    'reservation',
+    'waitlist_reservation',
+    'deals',
+    'gender_neutral_restrooms',
+    'open_to_all',
+    'wheelchair_accessible'
+]
