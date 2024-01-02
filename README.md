@@ -25,7 +25,7 @@ These findings offer instructive insights aimed at advancing the field of tool l
 
 ## What's New
 
-- **[2023.01.01]** Release the tool library and data for ToolEyes. Code for inference and evaluation is on its way.
+- **[2024.01.01]** Release the tool library and data for ToolEyes. Code for inference and evaluation is on its way.
 - **[2024.01.01]** Paper available on [Arxiv](https://arxiv.org/abs/2401.00741).
 
 
