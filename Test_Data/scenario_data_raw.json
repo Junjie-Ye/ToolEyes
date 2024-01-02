@@ -1,1912 +1,1912 @@
 [
     {
         "query": "I'm in need of assistance in generating a random string with a length of 8,please give me one.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I'm testing a system that needs multiple UUIDs, can you generate six for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Can you help me by generating four UUIDs for the new virtual machines in our network?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Please return a random sentence to me.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Please provide me with two sentences of lorem ipsum text.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need to create three UUIDs for identification purposes, could you assist?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Could you generate three random numbers between 10 and 50 for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need three random strings, each of length 8.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I'm testing a function that requires random inputs, could you generate ten random numbers between 1 and 100 for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Could you provide twenty strings each of length 7 characters for testing purposes?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need to generate five random numbers between 10 and 20, can you assist me with that?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Can you generate a random number between 50 and 100 for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Generate a random number greater than 20 and less than 30, please.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I'm setting up multiple accounts and need different passwords, can you generate six passwords each of length 12 characters?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Could you assist me in generating a UUID?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Is it possible for you to generate ten random numbers between 1 and 100?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Please help me to create two random passwords with a length of 15.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "For testing purposes, I require twenty strings each of length 5 characters.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need to generate four random strings each of length 6, can you help with that?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Can you help in generating four random numbers less than 50?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need a strong password of length 12, can you generate it for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Is it possible for you to generate a random password with a length of 7 for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need two strings each of length 20 to test the input field on my application, can you help?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Please assist in generating a lorem ipsum sentence.",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Could you provide ten sentences of placeholder text for my website design?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need to create two strong passwords of 12 characters each, can you help me with that?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I'm designing a game and need some random numbers, can you generate ten numbers between 1 and 100?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Is it possible to get two random numbers greater than 100?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Could you generate five random strings each of 10 characters for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "Could you generate a UUID for me, please?",
-        "path": "/workspace/ToolEyes/Tool_Library/Random/Random",
+        "path": "ToolEyes/Tool_Library/Random/Random",
         "scenario": "TG"
     },
     {
         "query": "I need some random advice for my upcoming job interview.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Kangkang's birthday is coming, how to celebrate it?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I'm feeling a bit lost, can you provide me with a random advice slip?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Please give me a random piece of advice.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I need suggestions related to 'stress management'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I'm seeking advice related to 'healthy eating'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I'm having trouble dealing with stress, any suggestions?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I'm planning a surprise party for my wife, any advice?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "What's your suggestion for 'improving communication skills'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I'm looking for some guidance about 'career growth'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Can you provide me with advice related to 'career growth'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Give me some guidance on 'work-life balance'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "My friend's wedding is coming up, do you have any advice for the bride?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I need some tips about 'time management'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Could you give me some advice about 'love'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "I hope to have some advice about 'studying'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Please retrieve the advice whose slip id is 234.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Give me 3 suggestions of different types.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Please fetch the advice slip that has an id of 456.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Is there any random suggestion that could help me improve my communication skills?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Is there any random advice you can give me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "Can you give me some tips on 'healthy eating'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Advice_slip",
+        "path": "ToolEyes/Tool_Library/Advice/Advice_slip",
         "scenario": "TG"
     },
     {
         "query": "How should I say 'glass' in Chinese?",
-        "path": "/workspace/ToolEyes/Tool_Library/Translation/Translation",
+        "path": "ToolEyes/Tool_Library/Translation/Translation",
         "scenario": "TG"
     },
     {
         "query": "Can you help me translate this sentence from Chinese to English: '\u6211\u7231\u4f60\u5230\u6c38\u8fdc'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Translation/Translation",
+        "path": "ToolEyes/Tool_Library/Translation/Translation",
         "scenario": "TG"
     },
     {
         "query": "Could you tell me a cold joke?",
-        "path": "/workspace/ToolEyes/Tool_Library/Joke/jokes",
+        "path": "ToolEyes/Tool_Library/Joke/jokes",
         "scenario": "TG"
     },
     {
         "query": "How about sharing some humor with us by providing ten random jokes?",
-        "path": "/workspace/ToolEyes/Tool_Library/Joke/jokes",
+        "path": "ToolEyes/Tool_Library/Joke/jokes",
         "scenario": "TG"
     },
     {
         "query": "Please tell me an event to do when I am bored.",
-        "path": "/workspace/ToolEyes/Tool_Library/Advice/Bored",
+        "path": "ToolEyes/Tool_Library/Advice/Bored",
         "scenario": "TG"
     },
     {
         "query": "I need some user data to test my web application.Can you provide some for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Faker/fake_data",
+        "path": "ToolEyes/Tool_Library/Faker/fake_data",
         "scenario": "TG"
     },
     {
         "query": "Can you create a line chart that depicts the search popularity score of restaurant over a period of time?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "What are the most popular topics related to \"Veganism\" in the United States over the past 5 years?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "What are the top three most popular topics related to school?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "What are the top five related queries to \"Bitcoin\" in the United States?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "What are some autocomplete suggestions for the search term \"Healthy Recipes\"?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Can you provide the top five related queries for \"Bitcoin\" worldwide?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Can you show a compared breakdown by region for the search term \"Veganism\" in Australia?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Between coffee and milk, which one has a higher search popularity in Canada?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Can you compare search popularity between different types of diets (\"Keto Diet\", \"Paleo Diet\", and \"Vegan Diet\") worldwide?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Can you provide autocomplete suggestions for a search query of \"Climate Change\" on Google Trends?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Please provide me with a selection of suggested search results for coffee from the Google Trends search page.",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Can you show me how interest in \"Election 2020\" has changed over time globally?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "How does the search popularity of \"Tesla Model S\" compare to \"Tesla Model 3\" in Europe?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Please provide a breakdown by region of interest in the term \"Veganism\" within Europe.",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "How has interest in \"COVID-19 Vaccine\" changed over time globally since its inception?",
-        "path": "/workspace/ToolEyes/Tool_Library/Trend/Google_Trends",
+        "path": "ToolEyes/Tool_Library/Trend/Google_Trends",
         "scenario": "RS"
     },
     {
         "query": "Find research papers discussing the applications of blockchain technology in finance using the arXiv API. Provide the first 3 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Find research papers on astrophysics, specifically about black holes, using the arXiv API. Show 0~9 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Explore arXiv articles related to astrophysics with an emphasis on dark matter. Provide the first 3 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve scientific articles about climate change and its impact on biodiversity from arXiv. Return up to 4 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve e-prints from arXiv discussing recent advancements in nanotechnology. Limit the output to 2 entries.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Search for articles on climate change impact assessments using the arXiv API. Show 0~9 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Search for scholarly articles regarding genetic engineering and biotechnology on arXiv. Display the initial 4 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Search for e-prints discussing the latest developments in machine learning algorithms on arXiv. Limit the output to 2 entries.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve scientific publications about cyber security threats and solutions using the arXiv API, returning up to 2 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Find research papers examining social media's influence on mental health through Arxiv API, providing first 3 results as output",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Explore e-prints focused on quantum physics and its applications in quantum computing through the arXiv API. Limit the results to 3.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Find research papers discussing neural networks and machine learning techniques. Return up to 7 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Find scientific publications about renewable energy sources using the arXiv API. Return 0~4 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve scientific publications about bioinformatics and genome sequencing from arXiv, showing only top 2 entries.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Search for e-prints related to the topic of genetic algorithms using the arXiv API. Display the first 3 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve research papers on artificial intelligence ethics using the arXiv API. Provide the first 10 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Explore arXiv articles focused on mathematical proofs in the field of number theory. Limit the results to 2.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve scientific articles discussing advancements in artificial intelligence and robotics from arXiv. Return up to 5 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Retrieve scientific papers related to quantum computing using the arXiv API. Display the first 5 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "Search for articles discussing recent developments in nanotechnology using the arXiv API, and display up to 2 results.",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/arxiv",
+        "path": "ToolEyes/Tool_Library/Paper/arxiv",
         "scenario": "RS"
     },
     {
         "query": "What is the distance between Earth and Moon?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "Can you tell me something interesting about 'Leonardo Da Vinci'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "Could you help me understand the concept of 'Quantum Physics'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "Could you give me some advice about 'love'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "Is there any random advice you can give me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "I need to find the solution for a mathematical equation '2x+3=7'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "Could you give me some information on how to bake a cake?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "I would like to know more about the process of photosynthesis.",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "I am looking for some facts about 'Mars'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "Can you explain how a car engine works?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/WolframSearch",
+        "path": "ToolEyes/Tool_Library/Search/WolframSearch",
         "scenario": "RS"
     },
     {
         "query": "What day is it today?",
-        "path": "/workspace/ToolEyes/Tool_Library/Calendar/Calendar",
+        "path": "ToolEyes/Tool_Library/Calendar/Calendar",
         "scenario": "RS"
     },
     {
         "query": "Can you tell me what will the weather be like in London for the next week?",
-        "path": "/workspace/ToolEyes/Tool_Library/Weather/weatherapi",
+        "path": "ToolEyes/Tool_Library/Weather/weatherapi",
         "scenario": "RS"
     },
     {
         "query": "Can you tell me what's the weather like in Beijing now?",
-        "path": "/workspace/ToolEyes/Tool_Library/Weather/openweathermap",
+        "path": "ToolEyes/Tool_Library/Weather/openweathermap",
         "scenario": "RS"
     },
     {
         "query": "Images of the latest climate change news.",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/MultimodelSearch",
+        "path": "ToolEyes/Tool_Library/Search/MultimodelSearch",
         "scenario": "RS"
     },
     {
         "query": "What are the most popular tourist destinations in Europe?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/ShoppingSearch",
+        "path": "ToolEyes/Tool_Library/Search/ShoppingSearch",
         "scenario": "RS"
     },
     {
         "query": "What are the top attractions in Paris that tourists must visit?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/EngineSearch",
+        "path": "ToolEyes/Tool_Library/Search/EngineSearch",
         "scenario": "RS"
     },
     {
         "query": "Can you provide detailed information from https://zhuanlan.zhihu.com/p/645388566?",
-        "path": "/workspace/ToolEyes/Tool_Library/Search/CostumizeSearch",
+        "path": "ToolEyes/Tool_Library/Search/CostumizeSearch",
         "scenario": "RS"
     },
     {
         "query": "How does aerobic exercise impact cardiovascular health according to biomedical literature?",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/pubmed",
+        "path": "ToolEyes/Tool_Library/Paper/pubmed",
         "scenario": "RS"
     },
     {
         "query": "Can you provide papers related to computer vision?",
-        "path": "/workspace/ToolEyes/Tool_Library/Paper/meta_analysis",
+        "path": "ToolEyes/Tool_Library/Paper/meta_analysis",
         "scenario": "RS"
     },
     {
         "query": "Could you fetch the details of the article with the ID 123?",
-        "path": "/workspace/ToolEyes/Tool_Library/News/space_news",
+        "path": "ToolEyes/Tool_Library/News/space_news",
         "scenario": "RS"
     },
     {
         "query": "What were the most popular news articles related to technology on August 1st, 2023?",
-        "path": "/workspace/ToolEyes/Tool_Library/News/news_search",
+        "path": "ToolEyes/Tool_Library/News/news_search",
         "scenario": "RS"
     },
     {
         "query": "What countries do you think Wang and Zhang might be from?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Estimate how old might be a person called Elizabeth from England.",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "From which country do you assume David originates?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Can you estimate Michael's age? He is an American.",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Is it possible to guess the nationality of someone named Giuseppe just by his name?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Make a guess about Jane's gender.",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Based on their names, what could be the nationalities of John and Maria?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Could you predict the genders for these names: Chris, Jordan, and Sydney?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "What's your best guess for the gender of Taylor and Jordan, both residing in USA?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "I have a list of names: Maria, Juan, and Carlos. Can you predict their ages?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "I'm guessing that both Jordan and Taylor are male, can you confirm this for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Could we guess what might be the ages of individuals named Sophia and Liam in Germany?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "I'm guessing that both Tom and Alice are female. What is your opinion?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "What could be the possible age of a person named Akiko in Japan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Can we predict the age of someone named Hassan in Egypt?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Can we determine both age and nationality for a person named Vladimir?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Can we guess the nationality of a person named Olga?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Could you tell me what nationality might a person named Pierre have?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "How old may Michael be?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Can we predict whether Taylor from Australia is male or female based on their name?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Please help me assign classes to this text, 'As the gentle waves caress the sandy beach and the sunlight pours down its warm rays, I feel a sense of tranquility and peace within. The beauty and harmony of nature make me forget the hustle and bustle of the city, allowing me to quietly listen to the birds' songs and feel the breath of the wind. In this serene corner, I find a sanctuary for my soul, a place of calmness and freedom away from the chaos. The picturesque scenery freezes time, enabling me to fully embrace the gifts of nature.'.",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "Please summarize in three sentences this report about global warming effects on polar bears' population.",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "Please tell me the definition of the word 'hello'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Word/Word",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Word/Word",
+        "scenario": "DU"
     },
     {
         "query": "Remove the forbidden word from the following sentence: fuck you son of the bitch.",
-        "path": "/workspace/ToolEyes/Tool_Library/Validation/Validation",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Validation/Validation",
+        "scenario": "DU"
     },
     {
         "query": "Please tell me how similar string \"123456\" and \"abcdefg\" are.",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "I have two paragraphs of text. The first one is \"The quick brown fox jumps over the lazy dog\" and the second one is \"The fast brown fox leaps over the lazy hound\". Can you calculate how similar these two texts are?",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "I have a couple of movie reviews for 'Inception'. The first review says, \"A mind-bending thriller with an intriguing concept.\" The second review states, \"An intriguing thriller that bends your mind with its concept.\" Can you tell me how similar they are?",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "How similar are ATTCGAATGC and TTCGACA?",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "Generate two random strings named text1 and text2, then tell me the similarity of string text1 and text2.",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "How much similarity exists between these two book summaries? Summary 1: \u201cA young wizard embarks on a magical journey at a school for witchcraft and wizardry.\u201d Summary 2: \u201cA young magician starts his mystical adventure at an academy for magic.\u201d",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "Could you tell me how similar are these programming codes? Code A - \"#include<iostream> int main() {std::cout << 'Hello World'; return 0;}\" Code B - \"#include<iostream> int main() {std::cout << 'Hello Planet'; return 0;}\"",
-        "path": "/workspace/ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Comparison/Text_Similarity_Calculator",
+        "scenario": "DU"
     },
     {
         "query": "Can you extract the key topics from this text? 'The recent climate change conference highlighted the urgent need for countries to reduce their carbon emissions. Renewable energy sources such as solar and wind power were discussed as potential solutions.'",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "Can you perform a linguistic analysis on this sentence? 'As the gentle waves caress the sandy beach and the sunlight pours down its warm rays, I feel a sense of tranquility and peace within.'",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "Please perform a sentiment analysis on the following statement: 'I am extremely disappointed with the service I received at that restaurant. The food was cold and the staff were rude.'",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "What emotions are contained in the following text, 'Beneath the starry sky, serenity envelops the tranquil meadow, inviting contemplation and inner peace.'?",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "'As the gentle waves caress the sandy beach and the sunlight pours down its warm rays, I feel a sense of tranquility and peace within. The beauty and harmony of nature make me forget the hustle and bustle of the city, allowing me to quietly listen to the birds' songs and feel the breath of the wind. In this serene corner, I find a sanctuary for my soul, a place of calmness and freedom away from the chaos. The picturesque scenery freezes time, enabling me to fully embrace the gifts of nature.', can you help me generate a summary for the above passage?",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "Please extract different sections from this document using its URL - 'https://en.wikipedia.org/wiki/Climate_change'.",
-        "path": "/workspace/ToolEyes/Tool_Library/NLP/NLP",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/NLP/NLP",
+        "scenario": "DU"
     },
     {
         "query": "We are trying to determine the gender of someone named Alex from the United States, can you help?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "Could you guess the gender of a person named Alex from Australia?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "What could be the nationalities of people named Hiroshi and Yuki?",
-        "path": "/workspace/ToolEyes/Tool_Library/Predict/Predict",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Predict/Predict",
+        "scenario": "DU"
     },
     {
         "query": "I need to validate if the phone number '+44 7911 123456' is valid in the UK. Use 'check_phone_number'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Validation/Validation",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Validation/Validation",
+        "scenario": "DU"
     },
     {
         "query": "Retrieve ten most recent scans that fall within a score range of max and 80.",
-        "path": "/workspace/ToolEyes/Tool_Library/Validation/Validation",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Validation/Validation",
+        "scenario": "DU"
     },
     {
         "query": "Check the security of the website www.mywebsite.com.",
-        "path": "/workspace/ToolEyes/Tool_Library/Validation/Validation",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Validation/Validation",
+        "scenario": "DU"
     },
     {
         "query": "Please provide me with the grade distribution of our website's security.",
-        "path": "/workspace/ToolEyes/Tool_Library/Validation/Validation",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Validation/Validation",
+        "scenario": "DU"
     },
     {
         "query": "Can you find out about the ten most recent scans that scored below 50?",
-        "path": "/workspace/ToolEyes/Tool_Library/Validation/Validation",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Validation/Validation",
+        "scenario": "DU"
     },
     {
         "query": "Please provide me with words whose part of speech matches \"verb\".",
-        "path": "/workspace/ToolEyes/Tool_Library/Word/Word",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Word/Word",
+        "scenario": "DU"
     },
     {
         "query": "Can you search for words that match the letter pattern \"a*b*c\"?",
-        "path": "/workspace/ToolEyes/Tool_Library/Word/Word",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Word/Word",
+        "scenario": "DU"
     },
     {
         "query": "How often is the word 'love' used in English literature?",
-        "path": "/workspace/ToolEyes/Tool_Library/Word/Word",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Word/Word",
+        "scenario": "DU"
     },
     {
         "query": "Could you show me how to pronounce the word 'encyclopedia'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Word/Word",
-        "scenario": "DA"
+        "path": "ToolEyes/Tool_Library/Word/Word",
+        "scenario": "DU"
     },
     {
         "query": "I want to download 'Wechat', could you help me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Please recommend some comedies for me.",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I am looking for films with a style or genre similar to \u2018Pulp Fiction\u2019, can you help me find them?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Please suggest some applications similar to 'Microsoft Word'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I'm interested in apps related to 'Zoom', can you provide some suggestions?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I'd like to find movies similar to the horror film 'The Conjuring'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Can you recommend some action games for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I am looking for books on the topic of 'Artificial Intelligence'. Are there any available?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Please find me three books on how to cook.",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Please recommend some apps that can help with learning a new language.",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I'm looking for games similar to 'Minecraft', can you help me find some?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I enjoyed the movie 'The Godfather', could you suggest similar movies for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Could you provide suggestions for apps that are related in function and design as \u2018Slack\u2019?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "What are the top-rated apps like \u2018Zoom\u2019 for video conferencing?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I'm interested in finding games related to 'Minecraft', could you assist me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I am looking for books similar to 'To Kill a Mockingbird', can you help?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Are there any strategy games related to ancient civilizations?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Could you recommend some movies like 'Inception'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Could you recommend me some thrillers or mystery movies like \u2018The Da Vinci Code\u2019?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "I'm interested in books related to the fantasy genre, like 'Harry Potter'. Can you help me find more?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "What are some free books related to 'Psychology'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Can you suggest movies related to the film 'The Godfather'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "Can you recommend some applications like 'Adobe Photoshop'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Entertainment/Google_play_store",
+        "path": "ToolEyes/Tool_Library/Entertainment/Google_play_store",
         "scenario": "PL"
     },
     {
         "query": "What are some available jobs for graphic designers in Canada?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "Can you help me find job listings for a project manager role in Australia?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "Which companies are currently advertising for a barista position?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "How can I apply for the job with id eyJqb2JfdGl0bGUiOiJCYXJpc3RhIiwiaHRpZG9jaWQiOiJMV1J1RlY4ZHZka0FBQUFBQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVMXJNbXhzU1c0NFUweEtZVGhJV1RsZlkwZEtUa2hVU0RsSlRWUTBWazQyUlZCUE5UTXdURzF1V1dkalYzazJjMU5WVXpGUExWTnRlWGQzTkRWWE1uazViMVl5YjFGcmQzcHljbkoxY2pGeU4zSlBkVGg2TTJock1tTlhlbWxxVm5OTFJVTkhaV2hDVjFWTFYycFRVVUp1ZDFCU1ozZFRaRzFFVGpCRWFHZG1PRk14V2xaNWIzUnVjV1p4ZVVabmNUVkVkMlZXZFhvNGIzQm9abXB1ZEZKVWNXRTVkMFJpVXpsaU56WmhaVjlwVVRGc1ZYbzRFaGRxTFdKWVdrcFFVVXBaYVZkM1ltdFFYemhsT1hOQmF4b2lRVXhGVXpsMVR6Qm9hWGRRUVZsMUxWaENhR3htTm5GV1RVVk1NalJaVkZNM1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBkaXJlY3RseSBvbiBJbmRlZWQiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5kZWVkLmNvbS92aWV3am9iP2prPTk4MTdkOWMzMGUzNjEzZWJcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "Could you please provide some key highlights of working as a barista at Eleven Madison Park in New York?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I am interested in pursuing a teacher role with a competitive salary. Can you suggest some suitable options?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I am seeking employment as a graphic designer within creative agencies based out of Germany, could you provide me with some options?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "Could you provide more information about the role of Project Manager at Google located in California?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I am interested in remote work opportunities as a content writer. Can you help me find some job listings?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I have experience as a project manager and am looking to transition into the tech industry. Can you provide some job options that might be suitable for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I have experience as a chef and am looking to explore opportunities at high-end restaurants or hotels, can you assist me with this search?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I have recently completed my MBA and am interested in finding management roles within the finance industry, preferably within the UK.",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "What salary range can I expect if I were to become a software engineer?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I am interested in working as an accountant with good benefits package. Can you recommend some jobs that fit this criteria?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I have recently completed my Masters in Data Science and looking for relevant job opportunities in Australia, can you assist me with this?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/Google_Jobs",
+        "path": "ToolEyes/Tool_Library/Job/Google_Jobs",
         "scenario": "PL"
     },
     {
         "query": "I am a 25-year-old male with a height of 1.8 meters and a weight of 70 kg,can you tell me my daily calorie goal if I want to reach level_3?",
-        "path": "/workspace/ToolEyes/Tool_Library/Health/Fitness_Calculator",
+        "path": "ToolEyes/Tool_Library/Health/Fitness_Calculator",
         "scenario": "PL"
     },
     {
         "query": "Can you provide the Body Mass Index (BMI) for an individual who is male, aged between 40-45 years old, with a height of 1.8 meters and weight around ninety kilograms?",
-        "path": "/workspace/ToolEyes/Tool_Library/Health/Fitness_Calculator",
+        "path": "ToolEyes/Tool_Library/Health/Fitness_Calculator",
         "scenario": "PL"
     },
     {
         "query": "I have an FDC ID for a food item, which is 329702, but I'm not sure how to access its nutritional data. Can you assist?",
-        "path": "/workspace/ToolEyes/Tool_Library/Health/FoodData_Central",
+        "path": "ToolEyes/Tool_Library/Health/FoodData_Central",
         "scenario": "PL"
     },
     {
         "query": "Is there an efficient way to page through a large list of foods while only returning a specified number per page?",
-        "path": "/workspace/ToolEyes/Tool_Library/Health/FoodData_Central",
+        "path": "ToolEyes/Tool_Library/Health/FoodData_Central",
         "scenario": "PL"
     },
     {
         "query": "Could you provide me with a list of entry-level positions?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/the_muse",
+        "path": "ToolEyes/Tool_Library/Job/the_muse",
         "scenario": "PL"
     },
     {
         "query": "Can you give me more information about company ID 67890?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/the_muse",
+        "path": "ToolEyes/Tool_Library/Job/the_muse",
         "scenario": "PL"
     },
     {
         "query": "What is the procedure for applying to a Python developer position in Texas?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/job_search",
+        "path": "ToolEyes/Tool_Library/Job/job_search",
         "scenario": "PL"
     },
     {
         "query": "Can you provide details about remote job opportunities as a Graphic Designer?",
-        "path": "/workspace/ToolEyes/Tool_Library/Job/job_search",
+        "path": "ToolEyes/Tool_Library/Job/job_search",
         "scenario": "PL"
     },
     {
         "query": "I will go to Seattle from Beijing next month. Can you make a recommendation on hotels and flight please?",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/BMTool_Travel",
+        "path": "ToolEyes/Tool_Library/Travel/BMTool_Travel",
         "scenario": "PL"
     },
     {
         "query": "Provide me with the site ID of AE in the locale metadata.",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Hotels",
+        "path": "ToolEyes/Tool_Library/Travel/Hotels",
         "scenario": "PL"
     },
     {
         "query": "What is the IATA code of India?",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Flight_JSON_Data",
+        "path": "ToolEyes/Tool_Library/Travel/Flight_JSON_Data",
         "scenario": "PL"
     },
     {
         "query": "I am in the process of planning a trip from Paris to Madrid in 10 days. Can you display the least expensive flight options for each day?",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Flight_Data_v1",
+        "path": "ToolEyes/Tool_Library/Travel/Flight_Data_v1",
         "scenario": "PL"
     },
     {
         "query": "Kindly provide a list of hotels in Moscow along with their names and addresses.",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Hotels_Data",
+        "path": "ToolEyes/Tool_Library/Travel/Hotels_Data",
         "scenario": "PL"
     },
     {
         "query": "What is the distance between Bangkok and Phitsanulok?",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Flight_Data_v2",
+        "path": "ToolEyes/Tool_Library/Travel/Flight_Data_v2",
         "scenario": "PL"
     },
     {
         "query": "What is the id and IATA code of San Marino?",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Hotels_Statistical_Data",
+        "path": "ToolEyes/Tool_Library/Travel/Hotels_Statistical_Data",
         "scenario": "PL"
     },
     {
         "query": "Which trains have \"Rajdhani\" in their names?",
-        "path": "/workspace/ToolEyes/Tool_Library/Travel/Railway",
+        "path": "ToolEyes/Tool_Library/Travel/Railway",
         "scenario": "PL"
     },
     {
         "query": "Tell me a binary music type.",
-        "path": "/workspace/ToolEyes/Tool_Library/Music/Music",
+        "path": "ToolEyes/Tool_Library/Music/Music",
         "scenario": "PL"
     },
     {
         "query": "Help me search all countries whose name start with 'B'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Location/Geodatabase",
+        "path": "ToolEyes/Tool_Library/Location/Geodatabase",
         "scenario": "PL"
     },
     {
         "query": "Please give me five suggestions for things to do in the United States.",
-        "path": "/workspace/ToolEyes/Tool_Library/Location/Ticket",
+        "path": "ToolEyes/Tool_Library/Location/Ticket",
         "scenario": "PL"
     },
     {
         "query": "What varieties of coffee does Walmart offer?",
-        "path": "/workspace/ToolEyes/Tool_Library/Product/Walmart",
+        "path": "ToolEyes/Tool_Library/Product/Walmart",
         "scenario": "PL"
     },
     {
         "query": "What functionalities does the Apple app TestFlight offer?",
-        "path": "/workspace/ToolEyes/Tool_Library/Product/Apple_Product",
+        "path": "ToolEyes/Tool_Library/Product/Apple_Product",
         "scenario": "PL"
     },
     {
         "query": "What information is displayed in the Google immersive popup with page token 'eyJlaSI6IlN3clNZcmFlRnFETXdia1A0Y20zMkFvIiwiY2F0YWxvZ2lkIjoiMTU5NTU5MzkxODU0NTAwMDU3MjUiLCJ2YyI6IjI1OTQ0NzAwMTQxODE5NDE0ODgiLCJ2c2MiOiI2NjYyMzE2OTMzMjUwMjk2MDcwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxOTk2NzY4MTI5MDY4NTQ5MDEiLCJpbWFnZURvY2lkIjoiMTgwMDcyMTg2NzgwOTA4Nzg3OTUiLCJyZHMiOiJQQ182MDUyMTgzNjI1MTU3Mzc5NjAxfFBST0RfUENfNjA1MjE4MzYyNTE1NzM3OTYwMSIsInF1ZXJ5IjoibWVucytzd2VhdGVyIn0='?",
-        "path": "/workspace/ToolEyes/Tool_Library/Product/Google_Product",
+        "path": "ToolEyes/Tool_Library/Product/Google_Product",
         "scenario": "PL"
     },
     {
         "query": "Tell me you have more information about recipe 716429",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_recipes_info",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_recipes_info",
         "scenario": "PL"
     },
     {
         "query": "I would like to drink Greek yogurt, please provide me with more information",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_products",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_products",
         "scenario": "PL"
     },
     {
         "query": "Tell me the taste of recipe 69095",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_recipes_id",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_recipes_id",
         "scenario": "PL"
     },
     {
         "query": "I want to know the recipe for pasta.",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_recipes_search",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_recipes_search",
         "scenario": "PL"
     },
     {
         "query": "I am in the vicinity of longitude and latitude (37.7786357,-122.3918135), I want to eat Italian food, the budget should not exceed 100, the distance should not exceed 2miles",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_wine_restaurants",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_wine_restaurants",
         "scenario": "PL"
     },
     {
         "query": "Please answer: How much vitamin c is in 2 apples?",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_misc",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_misc",
         "scenario": "PL"
     },
     {
         "query": "I'm going to have steak with my two children. Please tell me the information about the ingredients I need to prepare",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_ingredient",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_ingredient",
         "scenario": "PL"
     },
     {
         "query": "I'd like to eat McDonald's, please tell me more about the menu. I require maxCarbs 100",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_menu",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_menu",
         "scenario": "PL"
     },
     {
         "query": "Could you give me some advice about how to cook chicken soup?",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/Tasty",
+        "path": "ToolEyes/Tool_Library/Food/Tasty",
         "scenario": "PL"
     },
     {
         "query": "I have a dish called Spaghetti Aglio et Olio. Please guess the nutritional content based on the name of the dish",
-        "path": "/workspace/ToolEyes/Tool_Library/Food/spoonacular_recipes_analyze",
+        "path": "ToolEyes/Tool_Library/Food/spoonacular_recipes_analyze",
         "scenario": "PL"
     },
     {
         "query": "Check latest email.",
-        "path": "/workspace/ToolEyes/Tool_Library/Mail/Mail",
+        "path": "ToolEyes/Tool_Library/Mail/Mail",
         "scenario": "AM"
     },
     {
         "query": "Send an email to 1479106701@qq.com with 'test_email' in the subject line and 'hello!' in the body.",
-        "path": "/workspace/ToolEyes/Tool_Library/Mail/Mail",
+        "path": "ToolEyes/Tool_Library/Mail/Mail",
         "scenario": "AM"
     },
     {
         "query": "Can you analyze these websites using paper_rank: www.reddit.com, www.linkedin.com?",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "Can we shorten this website's URL - https://www.google.com/, and then use the Paper Rank tool to analyze its domain?",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "I need a paper_rank analysis for the following domains: www.amazon.com, www.microsoft.com.",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "Please apply the paper_rank analysis on these domains: www.github.com, www.stackoverflow.com.",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "Analyze the following websites using paper_rank tool: www.tesla.com, www.nasa.gov",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "analyze the website https://www.facebook.com",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "Use paper_rank to analyze this domain: www.nytimes.com.",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "I need to analyze these domains: www.microsoft.com, www.apple.com. Could you use the paper rank tool for this?",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "Please summary the content in '/workspace/Tool_learning_test/Tools/File/file_operation/test_file/read_test.md' using less than 5 sentences.",
-        "path": "/workspace/ToolEyes/Tool_Library/File/file_operation",
+        "path": "ToolEyes/Tool_Library/File/file_operation",
         "scenario": "AM"
     },
     {
         "query": "Could you help me write 'hello world' into '/workspace/Tool_learning_test/Tools/File/file_operation/test_file/hello.txt'?",
-        "path": "/workspace/ToolEyes/Tool_Library/File/file_operation",
+        "path": "ToolEyes/Tool_Library/File/file_operation",
         "scenario": "AM"
     },
     {
         "query": "I want to know the exact content in '/workspace/Tool_learning_test/Tools/File/file_operation/test_file/hello.txt'.",
-        "path": "/workspace/ToolEyes/Tool_Library/File/file_operation",
+        "path": "ToolEyes/Tool_Library/File/file_operation",
         "scenario": "AM"
     },
     {
         "query": "Can you help me send an email to 873890848@qq.com using Zapier actions?I simply want to send a thank-you letter via Gmail.",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "Is it possible to post an Instagram photo through Zapier actions?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "Please calculate one hundred and seven minus twenty.",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "Use Newton calculator to calculate absolute value of '-15'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "I want to know the result of the following python code:for i in range(10):\n    print(i).",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "There is a bash command that needs execution: \"cat /etc/passwd\". Could you run it and return its output?",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "Could you assist me in compressing '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/protect.pdf' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/compress_protect.pdf', please?",
-        "path": "/workspace/ToolEyes/Tool_Library/File/Pdf",
+        "path": "ToolEyes/Tool_Library/File/Pdf",
         "scenario": "AM"
     },
     {
         "query": "What is 37 * 65 / 24?",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "Please factorize this polynomial: '3y^3 - y^2 + y -1'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "What is two hundred and fifty plus seventy-five divided by three?",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "Please calculate the 'log(sin(pi/2))'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "Please find the area under the curve 'x^2' from x=1 to x=4.",
-        "path": "/workspace/ToolEyes/Tool_Library/Calculator/Calculator",
+        "path": "ToolEyes/Tool_Library/Calculator/Calculator",
         "scenario": "AM"
     },
     {
         "query": "Using bash shell, can we print out current working directory path by executing this command `pwd` ?",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "Help me exectue the following python code:print(1)",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "Using Python Interpreter in REPL mode with AST enabled, can you tell me what is the result of `(3 + 4) * (5 -2)`?",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "I have some bash commands that create a new directory named 'testdir', navigate into it and then create a new file named 'testfile.txt'. Can you execute these commands for me? `mkdir testdir && cd testdir && touch testfile.txt`",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "Could you execute this Python expression with Python Interpreter? (123 + 234) / 23 * 19",
-        "path": "/workspace/ToolEyes/Tool_Library/Execute/Execute",
+        "path": "ToolEyes/Tool_Library/Execute/Execute",
         "scenario": "AM"
     },
     {
         "query": "Could you please assist me in removing the password from '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc_without_pass.pdf' as '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc_without_pass.pdf'?",
-        "path": "/workspace/ToolEyes/Tool_Library/File/Pdf",
+        "path": "ToolEyes/Tool_Library/File/Pdf",
         "scenario": "AM"
     },
     {
         "query": "I'm wondering if you could convert '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.pdf' into '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.png' for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/File/Pdf",
+        "path": "ToolEyes/Tool_Library/File/Pdf",
         "scenario": "AM"
     },
     {
         "query": "Please help me merge '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/protect.pdf' and '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.pdf' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/merge.pdf'.",
-        "path": "/workspace/ToolEyes/Tool_Library/File/Pdf",
+        "path": "ToolEyes/Tool_Library/File/Pdf",
         "scenario": "AM"
     },
     {
         "query": "Would you be able to convert '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello.doc' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc.pdf'?",
-        "path": "/workspace/ToolEyes/Tool_Library/File/Pdf",
+        "path": "ToolEyes/Tool_Library/File/Pdf",
         "scenario": "AM"
     },
     {
         "query": "Could you kindly assist me in adding a password 'test_password' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc.pdf' as '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc_pass.pdf'?",
-        "path": "/workspace/ToolEyes/Tool_Library/File/Pdf",
+        "path": "ToolEyes/Tool_Library/File/Pdf",
         "scenario": "AM"
     },
     {
         "query": "I have a long URL here: https://edition.cnn.com/2021/09/15/politics/joe-biden-california-recall/index.html, can we shorten it first and then perform a paper rank analysis on it?",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "I need to analyze the domain www.reddit.com using the paper_rank method, can you assist?",
-        "path": "/workspace/ToolEyes/Tool_Library/URL/URL",
+        "path": "ToolEyes/Tool_Library/URL/URL",
         "scenario": "AM"
     },
     {
         "query": "Can we use Zapier actions to create a new event on my Google Calendar?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "I'm a Zapier user and I want to check out if I can use it to search for my emails in Gmail.Would you check it out for me?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "How can I use Zapier actions to update a Google Sheets document with the latest sales data?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "Please help me find the latest email I received from Kaggle in Gmail.",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "Is it possible for me to retrieve the list of all available Slack channels using Zapier Actions?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "Is there a way for me to use Zapier actions to search for a specific document in my Google Drive?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "Can I use Zapier actions to send an automated email response from my Gmail account?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "I want to send an email to my boss via Gmail using Zapier actions, can you assist me with that?",
-        "path": "/workspace/ToolEyes/Tool_Library/Zapier/Zapier",
+        "path": "ToolEyes/Tool_Library/Zapier/Zapier",
         "scenario": "AM"
     },
     {
         "query": "How many threads are there on page 3 of the 'b' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "What are the preview replies for thread 123456 on the 'vg' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can we get details about any five boards from second page?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Please display five threads from page one of the 'mu' board in 4chan.",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can I get a list of all boards and their attributes on page number two with a page size of seven?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "How many boards are there on page 2 with a page size of 10?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Are there any new posts in thread number 456789 on the 'vg' board?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "How many threads on the 'pol' board in 4chan have been modified within the last hour?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Show me all the threads on the 'b' board of 4chan that have been archived.",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Please present me with posts from thread number 789123 on 'tg' board.",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Could you display five boards from page three of 4chan along with their attributes?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can I get a JSON representation of the 'mu' board catalog, including all OPs and their preview replies, limited to 5 threads per call with an offset of 2?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "What is the modification time and reply count for thread number 789123 on 'd' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can you show me a JSON representation of the catalog for the 'g' board in 4chan, limiting to only two threads and skipping the first one?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can you provide a list of all boards and their attributes on 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "List all closed threads that no longer receive posts from archive of 'lit' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "I would like to see the JSON representation of the 'g' board catalog, specifically from page 2.",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "What are all closed threads in the archive for the 'b' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Display three boards from 4chan along with their titles and descriptions.",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "I would like to see a JSON representation of the catalog for the 'a' board in 4chan.",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can you show me the full list of posts in thread 789123 on the 'b' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can you show me the catalog of the 'g' board on 4chan, specifically from page 3?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "What are the threads on the 'a' board in 4chan, specifically on page 3?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "What are some archived threads from the 'a' board that no longer receive posts?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can I get a summarized list of all threads on the 'mu' board from page number 5?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Are there any closed threads in the archive for the 'x' board that no longer receive posts?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can I have a list of threads and their preview replies from page number 3 on the 'b' board, limited to 4 threads per call with an offset of 1?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Could you show me a JSON representation of the 'pol' board catalog on 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "How many threads on the '3' board in 4chan have received more than two replies?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Can you provide a summary of all threads on the 'g' board in 4chan?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/chan",
+        "path": "ToolEyes/Tool_Library/Social/chan",
         "scenario": "IR"
     },
     {
         "query": "Could you estimate the rent of a 100 square meters studio?",
-        "path": "/workspace/ToolEyes/Tool_Library/Database/non_local",
+        "path": "ToolEyes/Tool_Library/Database/non_local",
         "scenario": "IR"
     },
     {
         "query": "Could you estimate rent for properties within 5 miles radius from this location (latitude and longitude provided)?",
-        "path": "/workspace/ToolEyes/Tool_Library/Database/non_local",
+        "path": "ToolEyes/Tool_Library/Database/non_local",
         "scenario": "IR"
     },
     {
         "query": "Please give me some reports about the ip '118.25.6.39'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Anti_Malware/Anti_Malware",
+        "path": "ToolEyes/Tool_Library/Anti_Malware/Anti_Malware",
         "scenario": "IR"
     },
     {
         "query": "Can you give me some information about this host: 'mywebsite.com'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Anti_Malware/Anti_Malware",
+        "path": "ToolEyes/Tool_Library/Anti_Malware/Anti_Malware",
         "scenario": "IR"
     },
     {
         "query": "Can you tell me some information on Self-Portrait Dedicated to Paul Gauguin?",
-        "path": "/workspace/ToolEyes/Tool_Library/Art/Harvard_art_museum",
+        "path": "ToolEyes/Tool_Library/Art/Harvard_art_museum",
         "scenario": "IR"
     },
     {
         "query": "Is there a publication titled \"Art History: A Comprehensive Guide\" available at Harvard Art Museum?",
-        "path": "/workspace/ToolEyes/Tool_Library/Art/Harvard_art_museum",
+        "path": "ToolEyes/Tool_Library/Art/Harvard_art_museum",
         "scenario": "IR"
     },
     {
         "query": "I want to know the detail information of the race with id 207660",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/Horse_Racing",
+        "path": "ToolEyes/Tool_Library/Competition/Horse_Racing",
         "scenario": "IR"
     },
     {
         "query": "Could you please fetch results history of a specific horse having id_horse as \u201856789\u2019 using \u2018horse_stats\u2019?",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/Horse_Racing",
+        "path": "ToolEyes/Tool_Library/Competition/Horse_Racing",
         "scenario": "IR"
     },
     {
         "query": "I'd like to know more about the race on 2021-12-12",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/API_F1",
+        "path": "ToolEyes/Tool_Library/Competition/API_F1",
         "scenario": "IR"
     },
     {
         "query": "What is Lewis Hamilton's ranking in race id=400 with 'rankings_races' tool?",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/API_F1",
+        "path": "ToolEyes/Tool_Library/Competition/API_F1",
         "scenario": "IR"
     },
     {
         "query": "Give me the list of available timezones for the games endpoint.",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/API_BASKETBALL",
+        "path": "ToolEyes/Tool_Library/Competition/API_BASKETBALL",
         "scenario": "IR"
     },
     {
         "query": "Get details of games played on a specific date in 2019 season of league 5 with timezone set as 'Europe/London'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/API_BASKETBALL",
+        "path": "ToolEyes/Tool_Library/Competition/API_BASKETBALL",
         "scenario": "IR"
     },
     {
         "query": "Can you give me a predictions about the fixture 198772",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/API_FOOTBALL",
+        "path": "ToolEyes/Tool_Library/Competition/API_FOOTBALL",
         "scenario": "IR"
     },
     {
         "query": "How did the driver with ID \"alonso\" perform in terms of finishing position in the 5th race of the 2010 season?",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/Ergast_F1",
+        "path": "ToolEyes/Tool_Library/Competition/Ergast_F1",
         "scenario": "IR"
     },
     {
         "query": "Please fetch hack attempts for a contest with the contest ID = 1 in the Codeforces Website.",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/Codeforces",
+        "path": "ToolEyes/Tool_Library/Competition/Codeforces",
         "scenario": "IR"
     },
     {
         "query": "Help me search all players with 'James' in their names in NBA.",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/balldontlie",
+        "path": "ToolEyes/Tool_Library/Competition/balldontlie",
         "scenario": "IR"
     },
     {
         "query": "Could you provide me with a comprehensive list of all the contests available on the Codeforces platform?",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/kontests",
+        "path": "ToolEyes/Tool_Library/Competition/kontests",
         "scenario": "IR"
     },
     {
         "query": "I need some game stats for the 2020NBA season",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/API_NBA",
+        "path": "ToolEyes/Tool_Library/Competition/API_NBA",
         "scenario": "IR"
     },
     {
         "query": "I want to know all of available cricket series' to query.",
-        "path": "/workspace/ToolEyes/Tool_Library/Competition/Cricket_Live_Data",
+        "path": "ToolEyes/Tool_Library/Competition/Cricket_Live_Data",
         "scenario": "IR"
     },
     {
         "query": "Help me find some information about Obama in Wikidata.",
-        "path": "/workspace/ToolEyes/Tool_Library/Entity/Wiki_data",
+        "path": "ToolEyes/Tool_Library/Entity/Wiki_data",
         "scenario": "IR"
     },
     {
         "query": "What is the annual income of the webpack open source collective?",
-        "path": "/workspace/ToolEyes/Tool_Library/Social/Open_Collective",
+        "path": "ToolEyes/Tool_Library/Social/Open_Collective",
         "scenario": "IR"
     },
     {
         "query": "Could tell me 3 facts of cats and dogs?",
-        "path": "/workspace/ToolEyes/Tool_Library/Animal/Animal",
+        "path": "ToolEyes/Tool_Library/Animal/Animal",
         "scenario": "IR"
     },
     {
         "query": "Tell me the ip address of this computer.",
-        "path": "/workspace/ToolEyes/Tool_Library/IP/IP",
+        "path": "ToolEyes/Tool_Library/IP/IP",
         "scenario": "IR"
     },
     {
         "query": "Could you tell me some information about VIN '5UXWX7C5*BA'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Vehicle/Vehicle",
+        "path": "ToolEyes/Tool_Library/Vehicle/Vehicle",
         "scenario": "IR"
     },
     {
         "query": "Can you give me some information about the stock whose ticker is 'amzn'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Stock/Stock",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Stock/Stock",
+        "scenario": "FT"
     },
     {
         "query": "Auto complete for keyword tesla. In the field of finance.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
+        "scenario": "FT"
     },
     {
         "query": "I want to know something about the stock 'BILI'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockInfo",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockInfo",
+        "scenario": "FT"
     },
     {
         "query": "Get all coin categories available on CoinMarketCap.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/CoinMarketCap",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/CoinMarketCap",
+        "scenario": "FT"
     },
     {
         "query": "Get me all latest Net Asset Value.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
+        "scenario": "FT"
     },
     {
         "query": "I need some latest articles about the stock 'BILI'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockNews",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockNews",
+        "scenario": "FT"
     },
     {
         "query": "How much is US GDP these years?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Economic_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Economic_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "Auto complete this keyword for me: tesla. Using yahoo finance.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
+        "scenario": "FT"
     },
     {
         "query": "Search 20 businesses that serve macarons in New York City.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yelp",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yelp",
+        "scenario": "FT"
     },
     {
         "query": "Get me all Ethereum ticker data you've got.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
+        "scenario": "FT"
     },
     {
         "query": "What's the crude oil price now? I want data from West Texas Intermediate.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Commodities",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Commodities",
+        "scenario": "FT"
     },
     {
         "query": "Do you have the information of stock 'SOHU' over the past few days.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockRealTime",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockRealTime",
+        "scenario": "FT"
     },
     {
         "query": "Get technical indicator SMA value of ticker 'BILI'. Price type set to 'close'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Technical_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Technical_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "How much is one dollar worth in CNY?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Currency_Converter",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Currency_Converter",
+        "scenario": "FT"
     },
     {
         "query": "Could you show me popular watchlists within Germany's region?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
+        "scenario": "FT"
     },
     {
         "query": "Show me a summary of the current financial market situation in Germany.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
+        "scenario": "FT"
     },
     {
         "query": "Get auto-complete suggestions related to 'Bonds' for Australian region.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_market",
+        "scenario": "FT"
     },
     {
         "query": "Is there any information available about IBM's earnings (EPS) for this year? The ticker symbol is 'IBM'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockInfo",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockInfo",
+        "scenario": "FT"
     },
     {
         "query": "Can we get information on any companies that were delisted on 2015-05-20?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockInfo",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockInfo",
+        "scenario": "FT"
     },
     {
         "query": "I'm interested in finding out about Google's listing and delisting status as of today.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockInfo",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockInfo",
+        "scenario": "FT"
     },
     {
         "query": "Give me a mapping of all cryptocurrencies to unique CoinMarketCap ids",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/CoinMarketCap",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/CoinMarketCap",
+        "scenario": "FT"
     },
     {
         "query": "List me all active and inactive cryptocurrencies with latest market data.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/CoinMarketCap",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/CoinMarketCap",
+        "scenario": "FT"
     },
     {
         "query": "Return me the exchange asset information with CoinMarketCap exchange ID=270",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/CoinMarketCap",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/CoinMarketCap",
+        "scenario": "FT"
     },
     {
         "query": "I would like to know all the scheme types available in India's mutual fund market.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
+        "scenario": "FT"
     },
     {
         "query": "Can you provide me with a list of all scheme names available for checking NAVs?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
+        "scenario": "FT"
     },
     {
         "query": "Provide me with historical NAV data for 'Equity Mid Cap' scheme from 'Axis Mutual Fund' family on 2020-12-31.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Latest_Mutual_Fund_NAV",
+        "scenario": "FT"
     },
     {
         "query": "I want to know about any articles that mention Microsoft (MSFT) between January 1, 2022, and February 1, 2022.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockNews",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockNews",
+        "scenario": "FT"
     },
     {
         "query": "What's the most actively traded tickers in US Market recently?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockNews",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockNews",
+        "scenario": "FT"
     },
     {
         "query": "I am interested in articles that cover technology and IPOs.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockNews",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockNews",
+        "scenario": "FT"
     },
     {
         "query": "Can you tell me about weekly US treasury yield? The maturity timeline should be 10 years.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Economic_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Economic_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "Do you know the real GDP per capita data of US?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Economic_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Economic_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "What was last month's Total Nonfarm Payroll data?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Economic_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Economic_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "Can you give me balance sheet data for symbol \"VISA\" in Singapore (SG)?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
+        "scenario": "FT"
     },
     {
         "query": "Can we access brief reports relating to Facebook's stock symbol FB using Yahoo Finance tool 'get_insights'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
+        "scenario": "FT"
     },
     {
         "query": "Could we get upgrades and downgrades histories related to Google's stock symbol GOOGL?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yahoo_Finance_stock",
+        "scenario": "FT"
     },
     {
         "query": "Return a list of businesses associated with phone number +18001234567",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yelp",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yelp",
+        "scenario": "FT"
     },
     {
         "query": "Use yelp_event_search tool to look up art events happening around Los Angeles area sorted by popularity starting from tomorrow's date till next month end date",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yelp",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yelp",
+        "scenario": "FT"
     },
     {
         "query": "Find the top 10 wheelchair accessible restaurants in San Francisco, CA that are open now and sort them by rating.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Yelp",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Yelp",
+        "scenario": "FT"
     },
     {
         "query": "Utilize the 'get_custom_ticker' endpoint to create a custom index excluding Kraken exchange for ETHUSD pair.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
+        "scenario": "FT"
     },
     {
         "query": "Use the 'get_custom_ticker' tool to generate a custom index for ETHUSD only including Binance and Coinbase exchanges.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
+        "scenario": "FT"
     },
     {
         "query": "I want to exclude Bitfinex from my analysis of ETHUSD, can you help?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Global_Ethereum_Price_Index",
+        "scenario": "FT"
     },
     {
         "query": "I want monthly historical global wheat price data.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Commodities",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Commodities",
+        "scenario": "FT"
     },
     {
         "query": "Can I get daily historical data for Crude Oil Brent prices?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Commodities",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Commodities",
+        "scenario": "FT"
     },
     {
         "query": "I want to get a monthly time series data for 'TSLA'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockRealTime",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockRealTime",
+        "scenario": "FT"
     },
     {
         "query": "Please give me most recent daily time series (date, daily open, daily high, daily low, daily close, daily volume) of 'NFLX'.",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/USStockRealTime",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/USStockRealTime",
+        "scenario": "FT"
     },
     {
         "query": "Can you tell me about the hourly VWAP for IBM stocks?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Technical_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Technical_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "What is the weekly BOP value of the stock 'MSFT'?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Technical_Indicators",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Technical_Indicators",
+        "scenario": "FT"
     },
     {
         "query": "Can you tell me what currencies are available for conversion with this API?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Currency_Converter",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Currency_Converter",
+        "scenario": "FT"
     },
     {
         "query": "What was the value of 1 GBP in INR on the date 2020/05/20?",
-        "path": "/workspace/ToolEyes/Tool_Library/Finance/Currency_Converter",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Finance/Currency_Converter",
+        "scenario": "FT"
     },
     {
         "query": "I would like to know what is today's exchange rate from EUR to GBP.",
-        "path": "/workspace/ToolEyes/Tool_Library/Stock/Stock",
-        "scenario": "FS"
+        "path": "ToolEyes/Tool_Library/Stock/Stock",
+        "scenario": "FT"
     }
 ]
