@@ -18,12 +18,12 @@ pylovepdf==1.3.2
 python_dateutil==2.8.2
 regex==2023.8.8
 Requests==2.31.0
-serpapi==0.0.1
+git+https://github.com/serpapi/serpapi-python.git
 SPARQLWrapper==2.0.0
 SPARQLWrapper==2.0.0
 termcolor==2.4.0
 torch==1.13.1
 tqdm==4.64.1
-transformers==4.37.0.dev0
+transformers==4.28.1
 wolframalpha==5.0.0
 zmail==0.2.8
