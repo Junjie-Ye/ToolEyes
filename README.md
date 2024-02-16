@@ -71,12 +71,29 @@ We examine the entirety of the tool learning process, focusing on the five dimen
 If you find this project useful in your research, please cite:
 
 ```
-@misc{ye2024tooleyes,
-      title={ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios}, 
-      author={Junjie Ye and Guanyu Li and Songyang Gao and Caishuang Huang and Yilong Wu and Sixian Li and Xiaoran Fan and Shihan Dou and Qi Zhang and Tao Gui and Xuanjing Huang},
-      year={2024},
-      eprint={2401.00741},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{DBLP:journals/corr/abs-2401-00741,
+  author       = {Junjie Ye and
+                  Guanyu Li and
+                  Songyang Gao and
+                  Caishuang Huang and
+                  Yilong Wu and
+                  Sixian Li and
+                  Xiaoran Fan and
+                  Shihan Dou and
+                  Qi Zhang and
+                  Tao Gui and
+                  Xuanjing Huang},
+  title        = {ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of
+                  Large Language Models in Real-world Scenarios},
+  journal      = {CoRR},
+  volume       = {abs/2401.00741},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2401.00741},
+  doi          = {10.48550/ARXIV.2401.00741},
+  eprinttype    = {arXiv},
+  eprint       = {2401.00741},
+  timestamp    = {Mon, 05 Feb 2024 20:18:16 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2401-00741.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
