@@ -163,12 +163,15 @@ def required_param_check(doc,action,params):# check whether is any required para
             action_doc = d
             break
     missing_required_param_cnt = 0
-    required_param_list = action_doc['required']
+    if 'required' not in action_doc.keys():
+        required_param_list = action_doc['parameters']['required'] 
+    else:
+        required_param_list = action_doc['required']
     for k in params.keys():
         if k in required_param_list:
             required_param_list.remove(k)
     missing_required_param_cnt = len(required_param_list)
-    if len(action_doc['required'])>0:
+    if len(required_param_list)>0:
         return False
     else:
         return True
@@ -340,7 +343,7 @@ def Tool_selection_score(evaluation_res,stat_dict):
     else:
         stat_dict['valid_TS_mean'] = np.mean(origin_TS_score)/10
         stat_dict['TS'] = tool_reality * np.mean(origin_TS_score)/10
-
+    stat_dict['tool_reality'] = tool_reality
     return stat_dict,valid_TS
 
 def Answer_organization_score(evaluation_res,stat_dict):

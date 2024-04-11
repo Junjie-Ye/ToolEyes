@@ -31,16 +31,16 @@ def get_all_data(infer_res_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--input_file_path', type=str,
-                        default="eval_data/test.jsonl",
+                        default="test_input.json",
                         required=True, help='input data path')
     parser.add_argument('--eval_output_path', type=str,
-                        default="eval_data/", required=False, help='output path of evaluation result')
+                        default="Code/Evaluation/evaluation_results", required=False, help='output path of evaluation result')
     parser.add_argument('--gpt4_key', type=str,
-                        required=True, help='Your openai key')
+                        required=True,default='', help='Your openai key')
     parser.add_argument('--radar_fig_output_path', type=str,
-                        default="radar_fig", required=False, help='output path of radar figures')
+                        default="Code/Evaluation/evaluation_results/radar_fig", required=False, help='output path of radar figures')
     parser.add_argument('--result_tab_output_path', type=str,
-                        default="result_tab",
+                        default="Code/Evaluation/evaluation_results/result_tab",
                         required=False, help='output path of model performance statistics')
     parser.add_argument('--result_stat_required', type=str,
                     default=True,
