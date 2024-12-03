@@ -1,4 +1,4 @@
-# ToolEyes
+# [COLING 2025] ToolEyes
 
 ## ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios
 
