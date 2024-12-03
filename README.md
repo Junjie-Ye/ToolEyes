@@ -25,6 +25,7 @@ These findings offer instructive insights aimed at advancing the field of tool l
 
 ## What's New
 
+- **[2024.11.30]** The paper has been accepted by COLING 2025 conference.
 - **[2024.01.15]** Release the evaluation code. Instruction for inference and evaluation is on its way.
 - **[2024.01.13]** Release the inference code.
 - **[2024.01.01]** Release the tool library and data for ToolEyes.
