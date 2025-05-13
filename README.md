@@ -72,7 +72,7 @@ We examine the entirety of the tool learning process, focusing on the five dimen
 If you find this project useful in your research, please cite:
 
 ```
-@article{DBLP:journals/corr/abs-2401-00741,
+@inproceedings{ToolEyes,
   author       = {Junjie Ye and
                   Guanyu Li and
                   Songyang Gao and
@@ -81,20 +81,26 @@ If you find this project useful in your research, please cite:
                   Sixian Li and
                   Xiaoran Fan and
                   Shihan Dou and
+                  Tao Ji and
                   Qi Zhang and
                   Tao Gui and
                   Xuanjing Huang},
+  editor       = {Owen Rambow and
+                  Leo Wanner and
+                  Marianna Apidianaki and
+                  Hend Al{-}Khalifa and
+                  Barbara Di Eugenio and
+                  Steven Schockaert},
   title        = {ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of
                   Large Language Models in Real-world Scenarios},
-  journal      = {CoRR},
-  volume       = {abs/2401.00741},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2401.00741},
-  doi          = {10.48550/ARXIV.2401.00741},
-  eprinttype    = {arXiv},
-  eprint       = {2401.00741},
-  timestamp    = {Mon, 05 Feb 2024 20:18:16 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2401-00741.bib},
+  booktitle    = {Proceedings of the 31st International Conference on Computational
+                  Linguistics, {COLING} 2025, Abu Dhabi, UAE, January 19-24, 2025},
+  pages        = {156--187},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2025},
+  url          = {https://aclanthology.org/2025.coling-main.12/},
+  timestamp    = {Tue, 28 Jan 2025 16:22:21 +0100},
+  biburl       = {https://dblp.org/rec/conf/coling/YeLGHWLFDJ0G025.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
